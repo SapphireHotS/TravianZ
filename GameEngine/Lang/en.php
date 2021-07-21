@@ -132,6 +132,7 @@ define("PROD_HEADER","Production");
 define("MULTI_V_HEADER","Villages");
 define("ANNOUNCEMENT","Announcement");
 define("GO2MY_VILLAGE","Go to my village");
+define("SERVER_NAME","Test servername");
 define("VILLAGE_CENTER","Village centre");
 define("FINISH_GOLD","Finish all construction and research orders in this village immediately for 2 Gold?");
 define("WAITING_LOOP","(waiting loop)");
