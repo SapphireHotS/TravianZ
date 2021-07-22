@@ -1478,7 +1478,7 @@ define("CONF_ADMIN_RAIDATT_TOOLTIP","Enable (True) or disable (False) the abilit
 	   $lang['index'][0][2] = "Manual";
 	   $lang['index'][0][3] = "Play now, for free!";
 	   $lang['index'][0][4] = "What is " . SERVER_NAME . "";
-	   $lang['index'][0][5] = "" . SERVER_NAME . " is a <b>browser game</b> featuring an engaging ancient world with thousands of other real players.</p><p>It`s <strong>free to play</strong> and requires <strong>no downloads</strong>.";
+	   $lang['index'][0][5] = "" . SERVER_NAME . " is a <b>browser game</b> featuring an engaging pepa.</p><p>It`s <strong>free to play</strong> and requires <strong>no downloads</strong>.";
 	   $lang['index'][0][6] = "Click here to play " . SERVER_NAME . "";
 	   $lang['index'][0][7] = "Total players";
 	   $lang['index'][0][8] = "Players active";

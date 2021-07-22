@@ -74,3 +74,11 @@ project's history.
 Last but not least, our thanks go to [JetBrains](https://www.jetbrains.com/) for lending us a one-year full-featured 
 [open-source PHPStorm](https://www.jetbrains.com/buy/opensource/?product=phpstorm) (and other products) license! 
 Thanks guys, you're awesome :)
+
+
+
+UTILS
+
+
+rsync:
+rsync -avz --no-perms --no-owner --no-group --exclude 'install' --exclude 'GameEngine' --exclude '.git' . travian@bvalentin.es:/home/travian/public_html
